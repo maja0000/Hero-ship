@@ -1,5 +1,4 @@
 
-PLEASE CHECK THE DEMO: https://zen-shaw-5af657.netlify.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
